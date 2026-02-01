@@ -12,3 +12,9 @@ Problem Statement: Write a Python program that:
 1.   Takes user input and writes it to a file named output.txt.
 2.   Appends additional data to the same file.
 3.   Reads and displays the final content of the file.
+
+
+Task 10: The project is created as part of Assignment 6 (Modules 14 & 15) of the Python course.
+
+This project is a GUI-based Calculator application developed using Python Tkinter.
+It performs basic arithmetic operations through a simple and user-friendly graphical interface.
